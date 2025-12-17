@@ -1,0 +1,5 @@
+{
+  "name": " Smart Task Manager",
+  "description": "A premium Todoist clone featuring natural language processing powered by Gemini 2.5, full responsive design, local/cloud sync architecture, and advanced task management features.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,25 @@
+.inbox-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding-bottom: 4rem;
+}
+
+.inbox-header {
+  margin-bottom: 1.5rem;
+}
+
+.inbox-title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #1f2937;
+}
+
+.empty-state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 3rem 0;
+  opacity: 0.6;
+}
